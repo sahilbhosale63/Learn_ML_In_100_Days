@@ -12,3 +12,10 @@ Thought: I would be enhancing my maths skills first and then start with the actu
 Today's Progress: Learned the concepts of linear algebra like Inverse matrix, column space, null space, non-square matrix, dot product and cross product from the 3Blue1Brown youtube channel.
 
 Thought: Currently I am gaining the basic understanding of the topics in linear algebra and after this I will be diving deep into these topics.
+
+
+# Day 03
+
+Today's Progress: Learned the concepts of linear algebra like cross product in linear transformation, change in basis, Eignvalues and Eigenvectors and abstract vector space from the 3Blue1Brown youtube channel.
+
+Thought: Completed the 3Blue1Brown videos and from tomorrow will learn this subject in detail.
