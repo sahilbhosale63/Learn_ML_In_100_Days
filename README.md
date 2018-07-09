@@ -24,9 +24,9 @@ Thought: Completed the 3Blue1Brown videos and from tomorrow will learn this subj
 # Day 04
 
 Today's Progress: Watched the 2 lectures from the MIT OpenCourseWare's [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) Course and learned the following topics:
-Lecture 1
-N linear equations with n unknown,  Row picture , column picture, matrix form
-Lecture 2
-Elimation of matrix by row, back substitution, matrix multiplication, inverse of a matrix
+
+Lecture 1: N linear equations with n unknown,  Row picture , column picture, matrix form
+
+Lecture 2: Elimation of matrix by row, back substitution, matrix multiplication, inverse of a matrix
 
 Thought: Really understand this topics deeply as what matrix actually are and how to perform various operations on them. Looking forward to completed this course lectures in a week with proper understanding.
