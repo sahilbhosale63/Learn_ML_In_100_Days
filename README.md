@@ -23,7 +23,7 @@ Thought: Completed the 3Blue1Brown videos and from tomorrow will learn this subj
 
 # Day 04
 
-Today's Progress: Watched the first 2 lectures from the MIT OpenCourseWare's [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) Course and learned the following topics:
+Today's Progress: Completed the first 2 lectures from the MIT OpenCourseWare's [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) Course and learned the following topics:
 
 Lecture 1: N linear equations with n unknown,  Row picture , column picture, matrix form
 
