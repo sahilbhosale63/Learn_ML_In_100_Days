@@ -27,6 +27,26 @@ Today's Progress: Completed the first 2 lectures from the MIT OpenCourseWare's [
 
 Lecture 1: N linear equations with n unknown,  Row picture , column picture, matrix form
 
-Lecture 2: Elimation of matrix by row, back substitution, matrix multiplication, inverse of a matrix
+Lecture 2: Elimination of matrix by row, back substitution, matrix multiplication, inverse of a matrix
 
 Thought: Really understand this topics deeply as what matrix actually are and how to perform various operations on them. Looking forward to completed this course lectures in a week with proper understanding.
+
+
+# Day 05
+
+Today's Progress: Completed the 3rd & 4th lectures from the MIT OpenCourseWare's Linear Algebra course. Topics covered: Multiplication of matrix (4 ways), finding inverse of matrix i.e A^-1 by Gauss-Jordan Elimination method, Factorization into A = LU , Transpose of a matrix, Permutation matrix.
+
+Lecture 3: Multiplication of matrix 4 ways row *col , row * matrix, matrix * col, col * row( It's a special case ).
+Inverse of a matrix ( A^-1 A = I ), if and only if A^-1 exist and finding inverse i.e A^-1 by gauss - Jordan Elimination method.
+Also, A^-1 A = I = A A^-1, i.e A inverse * A is same as A * A inverse which is equal to identity matrix (I).
+
+Lecture 4: Factorization of matrix also known as matrix decomposition Is a way of reducing a matrix into constituent parts and in the form A = LU ( where L is lower triangular matrix and U is upper triangular matrix). More details here: https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/
+
+Inverse of two matrix i.e AB is B^-1A^-1 AB = I.
+To find transpose of a matrix we make row as a column and vice-versa.
+In permutation matrix we exchange rows. Also, In permutatin matrix Inverse of a matrix is equal to its transpose ( P^-1 = P^T).
+
+Thought: Getting some more grip on this subject as I am moving along.
+
+
+
