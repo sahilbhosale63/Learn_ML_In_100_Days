@@ -18,7 +18,7 @@ Learn Machine Learning #100DaysOfMLCode
 
 **Today's Progress:** Learned the concepts of linear algebra like cross product in linear transformation, change in basis, Eignvalues and Eigenvectors and abstract vector space from the 3Blue1Brown youtube channel.
 
-Thought: Completed the 3Blue1Brown videos and from tomorrow will learn this subject in detail.
+**Thought:** Completed the 3Blue1Brown videos and from tomorrow will learn this subject in detail.
 
 
 # Day 04
