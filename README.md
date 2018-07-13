@@ -49,4 +49,21 @@ In permutation matrix we exchange rows. Also, In permutatin matrix Inverse of a 
 **Thought:** Getting some more grip on this subject as I am moving along.
 
 
+# Day 06
 
+**Today's Progress:** Learned about vector spaces and subspaces, column space and null space in linear algebra from @MIT OpenCourseWare lecture 5 and lecture 6.
+
+Vectors Space has to be closed under Multiplication and addition of vectors which means in other words linear combination
+
+How to create a subspace from a matrix?
+Take the columns of a matrix and take there combinations or there linear combinations and you get the column space.
+
+**Thought:** completed the vector spaces part of linear algebra.
+
+
+# Day 07
+
+**Today's Progress:** Day 07: Learned about computing the nullspaces, Echelon form, complete solution of AX = B and rank of a matrix from MIT lecture 7 and lecture 8.
+ 
+
+**Thought:** learning some advance stuff and getting it to the middle of linear algebra course.
