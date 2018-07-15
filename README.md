@@ -63,7 +63,27 @@ Take the columns of a matrix and take there combinations or there linear combina
 
 # Day 07
 
-**Today's Progress:** Day 07: Learned about computing the nullspaces, Echelon form, complete solution of AX = B and rank of a matrix from MIT lecture 7 and lecture 8.
+**Today's Progress:** Learned about computing the nullspaces, Echelon form, complete solution of AX = B and rank of a matrix from MIT lecture 7 and lecture 8.
  
 
 **Thought:** learning some advance stuff and getting it to the middle of linear algebra course.
+
+
+# Day 08
+
+**Today's Progress:** Learned about the Linear independence, basics and dimensions, rowspaces and Nullspace of A^T from the lecture 9 and 10 of the MIT open courseware.
+
+**Thought:** The things which I learned today was new to me and I had never learned this in my school. There can be some topics from linear algebra which you might not know, so I encourage you all if you are learning mathematics or ML please check out this MIT Linear Algebra course link. The link is mentioned in Day 04.  
+
+# Day 09
+
+**Today's Progress:** Day 09: learned about Bases of new vector spaces, rank one matrix and basics of graphs in linear algebra from @MIT courseware lecture 11.
+
+**Thought:** Watched only one video today because I was working on my internship web project.
+
+
+# Day 10
+
+**Today's Progress:**  Learned about the Graphs & Networks, Incidence matrix, proved Kirchoff's law in terms of a matrix and solved some sums related to what I have learned so far from the MIT open courseware lecture 12 and 13.
+
+**Thought:** After solving the kirchoff's law in term of matrix form I think linear algebra can do anything.
