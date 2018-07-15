@@ -86,4 +86,4 @@ Take the columns of a matrix and take there combinations or there linear combina
 
 **Today's Progress:**  Learned about the Graphs & Networks, Incidence matrix, proved Kirchoff's law in terms of a matrix and solved some sums related to what I have learned so far from the MIT open courseware lecture 12 and 13.
 
-**Thought:** After solving the kirchoff's law in term of matrix form I think linear algebra can do anything.
+**Thought:** After solving the kirchoff's law in term of matrix form I think linear algebra can do anything. :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
