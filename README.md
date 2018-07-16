@@ -87,3 +87,16 @@ Take the columns of a matrix and take there combinations or there linear combina
 **Today's Progress:**  Learned about the Graphs & Networks, Incidence matrix, proved Kirchoff's law in terms of a matrix and solved some sums related to what I have learned so far from the MIT open courseware lecture 12 and 13.
 
 **Thought:** After solving the kirchoff's law in term of matrix form I think linear algebra can do anything. :stuck_out_tongue_winking_eye: :heart_eyes:
+
+
+# Day 11
+
+**Today's Progress:** Learned about the orthogonal vectors, why nullspaces are perpendicular to rowspaces, Nullspace of 'A' transpose dot 'A' is equal to Nullspace of 'A', projections, least square and projection matrix from the MIT OCW.
+
+Lecture 14: Orthogonal vectors, why nullspaces are perpendicular to rowspaces, Nullspace of 'A' transpose dot 'A' is equal to Nullspace of 'A' i.e N(A^T A) = N(A).
+
+Lecture 15: Projections & why we use projections, least square and projection matrix.
+
+**Thought:** Watched 2 video lectures today.
+
+
