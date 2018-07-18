@@ -106,7 +106,7 @@ Lecture 15: Projections & why we use projections, least square and projection ma
 **Thought:** today watched only one lecture.
 
 
-#Day 13
+# Day 13
 
 **Today's Progress:** Learned about the Orthogonal basis, orthogonal matrix, Gram Schmidt method, determinants, 10 properties of determinants from Linear Algebra course.
 
