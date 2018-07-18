@@ -99,4 +99,21 @@ Lecture 15: Projections & why we use projections, least square and projection ma
 
 **Thought:** Watched 2 video lectures today.
 
+# Day 12
+
+**Today's Progress:** Continued the projection matrix part and solved some sums related to that from MIT OCW lecture 16 of Linear Algebra.
+
+**Thought:** today watched only one lecture.
+
+
+#Day 13
+
+**Today's Progress:** Learned about the Orthogonal basis, orthogonal matrix, Gram Schmidt method, determinants, 10 properties of determinants from Linear Algebra course.
+
+Lecture 17: Orthogonal basis, orthogonal matrix, Gram Schmidt method.
+
+Lecture 18: Determinants & 10 properties of determinants.
+
+**Thought:** Understood the determinants part and its properites.
+
 
