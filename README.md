@@ -117,3 +117,14 @@ Lecture 18: Determinants & 10 properties of determinants.
 **Thought:** Understood the determinants part and its properites.
 
 
+# Day 14
+
+**Today's Progress:** Learned about the Formula for determinant of A, cofactor formula, tridiagonal matrices, formula for A^-1, Cramer's rule and volume of the box.
+
+Lecture 19: Formula for determinant of A, cofactor formula, tridiagonal matrices.
+
+Lecture 20: Formula for A^-1, Cramer's rule and volume of the box.
+
+**Thought:** learned about the other formulas of the determinants.
+
+
