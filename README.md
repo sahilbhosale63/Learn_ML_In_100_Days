@@ -131,5 +131,16 @@ Lecture 20: Formula for A^-1, Cramer's rule and volume of the box.
 
 **Today's Progress:** Learned about Eigen values and Eigen vectors, det [A - λI] = 0, diagonalization of a matrix from MIT linear algebra lecture 21 & 22.
 
+**Thought:** Understanding the concepts.
+
+
+# Day 16
+
+ 
+**Today's Progress:** Learned about the Markov matrices, steady state, Fourier series of projections, differential equation of du/dr = Au and exponential e^At of a matrix for linear algebra MIT OCW lecture 23 & 24.
+
+
 **Thought:** Also be reading the book of Linear Algebra by Prof. Gilbert Strange from tomorrow because i think it will be great to actually ready and revise those previous learned topics to understand the concepts better. As while watching a video there are topics which i didn't understand or i have some doubts related to a particular topic so that will be cleared through reading those topics again.
+
+
 
