@@ -143,4 +143,29 @@ Lecture 20: Formula for A^-1, Cramer's rule and volume of the box.
 **Thought:** Also be reading the book of Linear Algebra by Prof. Gilbert Strange from tomorrow because i think it will be great to actually ready and revise those previous learned topics to understand the concepts better. As while watching a video there are topics which i didn't understand or i have some doubts related to a particular topic so that will be cleared through reading those topics again.
 
 
+# Day 17
+
+**Today's Progress:** Learned about symmetric matrices, hermitian matrices and positive definite matrices from lecture 25 of linear algebra.
+
+**Thought:** Exploring & learning more concepts from linear algebra.
+
+
+# Day 18
+
+**Today's Progress:** Today learned about the Complex no's (in vectors & matrices), Fourier transform, fast Fourier transform, positive definite matrices (tests), test for minimum (X^TA > 0) and ellipsoids in R^n from lecture 26 &27 of MIT OCW linear algebra.
+
+Lecture 26: This lectured covered Complex no's (in vectors & matrices), Fourier transform, fast Fourier transform. 
+
+Lecture 27: This lectured covered positive definite matrices (tests), test for minimum (X^TA > 0) and ellipsoids in R^n.
+
+
+**Thought:** Learning by proving the things.
+
+
+
+
+
+
+
+
 
