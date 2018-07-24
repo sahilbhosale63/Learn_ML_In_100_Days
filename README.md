@@ -165,7 +165,11 @@ Lecture 27: This lectured covered positive definite matrices (tests), test for m
 
 # Day 19 
 
-**Today's Progress:** Learned about the similar matrices(jordan form) and singular value decomposition (SVD) from mit linear algebra course.
+**Today's Progress:** Learned about the similar matrices (jordan form) and singular value decomposition (SVD) from mit linear algebra course.
+
+Lecture 28: This lectured covered similar matrices (jordan form).
+
+Lecture 29: This lectured covered singular value decomposition (SVD).
 
 **Thought:** Today learned 2 topics in detail
 
