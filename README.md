@@ -175,6 +175,31 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 **Thought:** Today learned 2 topics in detail
 
 
+# Day 20 
+
+**Today's Progress:** Learned about linear transformation in linear algebra.
+
+**Thought:** watched only a single video.
+
+
+
+# Day 21 
+
+**Today's Progress:** Learned about change of basis and its application (compression of images), left inverse, right inverse & pseudo inverse in linear algebra.
+
+**Thought:** Finally completed the Linear Algebra part and will start with calculus from tomorrow.
+
+
+# Day 22 
+
+**Today's Progress:** Watched the first 5 videos of the 3Blue1Brown Essence of Calculus series.
+
+
+**Thought:** Will try to complete this video series within the next two days. 
+
+
+
+
 
 
 
