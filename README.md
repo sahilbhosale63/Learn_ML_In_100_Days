@@ -200,6 +200,29 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 
 
 
+# Day 23 & 24
+
+**Today's Progress:** Completed the 3Blue1Brown "Essence of Calculus" series. From tomorrow will start with probability & Statistic  according to @sirajraval ML curriculum.
+
+**Thought:** completed the calculus.
+
+
+
+# Day 25 
+
+**Today's Progress:** Today started with probability and Learned about sample space, events, conditional probability, solved some examples on conditional probability and properties of conditional probability.
+
+
+**Thought:** started with propability.
+
+
+
+# Day 26 & 27 
+
+**Today's Progress:** Learned about Multiplication theorem and independent events and solved sums related to that in probability.
+
+
+**Thought:** completed only two topics as I also have to go to college.
 
 
 
