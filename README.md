@@ -222,7 +222,7 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 **Today's Progress:** Learned about Multiplication theorem and independent events and solved sums related to that in probability.
 
 
-**Thought:** completed only two topics as I also have to go to college.
+**Thought:** completed only two topics as I also have to attend the college.
 
 
 
