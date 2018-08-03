@@ -226,6 +226,16 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 
 
 
+# Day 28 
+
+**Today's Progress:** Today understood the concept of Total probability and solved sums related to it.
+
+**Thought:** understanding the concepts.
 
 
 
+# Day 29 
+
+**Today's Progress:** Today learned about the Bayes' theorem in probability and solved sums related to it.
+
+**Thought:** Understanding the theorems in probability.
