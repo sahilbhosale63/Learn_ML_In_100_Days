@@ -239,3 +239,48 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 **Today's Progress:** Today learned about the Bayes' theorem in probability and solved sums related to it.
 
 **Thought:** Understanding the theorems in probability.
+
+
+# Day 30 
+
+**Today's Progress:** Learned about random variables, Bernoulli random variables and binomial random variables.
+
+**Thought:** Today started with random variables.
+
+
+# Day 31 
+
+**Today's Progress:** Poisson random variables, continuous and uniform random variables in probability theory.
+
+**Thought:** some part of random variables is remaining will do it tomorrow.
+
+
+
+# Day 32 
+
+**Today's Progress:** Solved some sums related to uniform random variable in probability theory.
+
+**Thought:** only solved sums today.
+
+
+# Day 33 
+
+**Today's Progress:** Learned about exponential random variable and normal random variable in probability theory.
+
+**Thought:** Completed with random variables part.
+
+
+
+# Day 34 
+
+**Today's Progress:**  Learned about Expectation (Mean), Expectation of Bernoulli Random Variable in probability.
+
+**Thought:** Started with Expectation i.e Mean.
+
+
+
+# Day 35 
+
+**Today's Progress:** Learned about Expectation of Binomial random variables and Poisson Random Variable in probability.
+
+**Thought:** Will cover the remaining mean in upcoming days.
