@@ -289,9 +289,9 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 
 
 
-# Day 35 
+# Day 36 
 
-**Today's Progress:** Learned about Expectation of poisson random variables and continuous Random Variable and Random Variable in probability.
+**Today's Progress:** Learned about Expectation of poisson random variables, continuous Random Variable and uniform Random Variable in probability.
 
 
 **Thought:** learned only three topics
