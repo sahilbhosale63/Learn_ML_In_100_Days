@@ -296,8 +296,53 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 
 **Thought:** learned only three topics
 
+
 # Day 37 & 38
 **Today's Progress:** Learned about Expectation of exponential random variable, expectation of normal random variable, mean, median and mode in probability theory.
 
+
 # Day 39 & 40 
 **Today's Progress:** Learned about Inequalities - Markov inequalities and chebyshev inequalities, weak law of large numbers and polling in limits.
+
+
+# Day 41 & 42: 
+**Today's Progress:** Learned about convergence in probability with examples, Central limit theorem (CLT) with examples, illustration of CLT.
+
+
+# Day 43 & 44: 
+**Today's Progress:** Learned about the overview of classical statistics, mean squared error, confidence interval, confidence mean for unknown mean and for mean when variance is unknown and Maximum likelihood estimation.
+
+# Day 45 & 46: 
+**Today's Progress:** Learned about Bernoulli process, stochastic process, properties of Bernoulli process, merging and splitting of Bernoulli process and Poisson approximation to Bernoulli process from @edXOnline Intro to probability course.
+
+
+
+# Day 47 & 48: 
+**Today's Progress:** Learned about definition of poisson process and it's applications, mean and variance of no of arrivals, merging independent poison process and splitting poison process in probability theory.
+
+
+
+# Day 49 & 50: 
+**Today's Progress:** Finished the remaining topics of probability theory from edx intro to probability course.
+
+Completed with the Mathematics Part 😌🤗. Next will start with Python programming.💻
+
+
+# Day 51 & 52: 
+**Today's Progress:** Started with python. Learned about variables and it's types, operations with variables, type conversion, what are lists, creating a list and list of lists.
+
+
+# Day 53 & 54: 
+**Today's Progress:** Learned about subsetting lists, subset and conquer, subset & calculate, slicing & dicing, subsetting list of lists, list manipulation, replace list items, extend list and delete list elements in python.
+
+
+# Day 55 & 56: 
+**Today's Progress:** Learned about functions, passing multiple argument, methods, string methods, list methods, packages, importing package, different ways of importing packages in Python.
+
+
+# Day 57 & 58: 
+**Today's Progress:** Started with Numpy library and created first Numpy array, subsetting Numpy array, 2d Numpy array, subsetting of 2d Numpy array, 2d arithmetic and Numpy basic statistics.
+
+
+# Day 59 & 60: 
+**Today's Progress:** Started with matplotlib and implemented line plot, scatter plot, histograms, made customization and interpretation to this plots.
