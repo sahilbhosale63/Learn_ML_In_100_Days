@@ -305,44 +305,100 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 **Today's Progress:** Learned about Inequalities - Markov inequalities and chebyshev inequalities, weak law of large numbers and polling in limits.
 
 
-# Day 41 & 42: 
+# Day 41 & 42 
 **Today's Progress:** Learned about convergence in probability with examples, Central limit theorem (CLT) with examples, illustration of CLT.
 
 
-# Day 43 & 44: 
+# Day 43 & 44
 **Today's Progress:** Learned about the overview of classical statistics, mean squared error, confidence interval, confidence mean for unknown mean and for mean when variance is unknown and Maximum likelihood estimation.
 
-# Day 45 & 46: 
+
+# Day 45 & 46
 **Today's Progress:** Learned about Bernoulli process, stochastic process, properties of Bernoulli process, merging and splitting of Bernoulli process and Poisson approximation to Bernoulli process from @edXOnline Intro to probability course.
 
 
 
-# Day 47 & 48: 
+# Day 47 & 48
 **Today's Progress:** Learned about definition of poisson process and it's applications, mean and variance of no of arrivals, merging independent poison process and splitting poison process in probability theory.
 
 
 
-# Day 49 & 50: 
+# Day 49 & 50 
 **Today's Progress:** Finished the remaining topics of probability theory from edx intro to probability course.
 
 Completed with the Mathematics Part 😌🤗. Next will start with Python programming.💻
 
 
-# Day 51 & 52: 
+# Day 51 & 52 
 **Today's Progress:** Started with python. Learned about variables and it's types, operations with variables, type conversion, what are lists, creating a list and list of lists.
 
 
-# Day 53 & 54: 
+# Day 53 & 54 
 **Today's Progress:** Learned about subsetting lists, subset and conquer, subset & calculate, slicing & dicing, subsetting list of lists, list manipulation, replace list items, extend list and delete list elements in python.
 
 
-# Day 55 & 56: 
+# Day 55 & 56 
 **Today's Progress:** Learned about functions, passing multiple argument, methods, string methods, list methods, packages, importing package, different ways of importing packages in Python.
 
 
-# Day 57 & 58: 
+# Day 57 & 58
 **Today's Progress:** Started with Numpy library and created first Numpy array, subsetting Numpy array, 2d Numpy array, subsetting of 2d Numpy array, 2d arithmetic and Numpy basic statistics.
 
 
-# Day 59 & 60: 
+# Day 59 & 60
 **Today's Progress:** Started with matplotlib and implemented line plot, scatter plot, histograms, made customization and interpretation to this plots.
+
+
+
+# Day 61 & 62
+**Today's Progress:** Learned about creating, accessing & manipulating Dictionaries, pandas library, dictionary to dataframe, CSV to dataframe, loc and iloc in pandas.
+
+
+# Day 63 & 64
+**Today's Progress:** Learned about comparison operators, equality, Boolean operators, arrays, comparing an array, Boolean operators with Numpy, if, elif & else statements, filtering pandas dataframe in Python.
+
+
+# Day 65 & 66
+**Today's Progress:** Learned about while and for loops, loop over a list, loop over list of lists, and looping over data structures like dictionaries, Numpy array and data frames in python.
+
+
+# Day 67 & 68 
+**Today's Progress:** Learned about user defined functions, strings in python, single parameter function, returning value from function, functions with multiple parameters and return value in python.
+
+
+# Day 69 & 70 
+**Today's Progress:** Learned about scope and user defined functions, global keyword, python built-in scope, nested functions, default and flexible arguments, functions with one and with multiple default arguments and functions with variable length argument in python.
+
+
+# Day 71 to 75 
+**Today's Progress:** Applied what I have learnt till now to create a ML model for house prediction on kaggle. And will learn and implement more prediction model in upcoming days.
+
+
+# Day 76 to 80
+**Today's Progress:** Learned about scikit-learn library, types of learning, classifying iris species, classification and regression, generalization, overfitting and underfitting, supervised ML algorithms from the O'Reilly Introduction to ML with Python book.
+
+
+# Day 81 to 92
+**Today's Progress:** Completed the Chapter 3: Unsupervised learning & preprocessing, 
+chapter 4: Representing data and engineering features,
+from the Introduction to Machine learning with python book from O'Reilly publication.
+
+
+
+# Day 93 to 95 
+**Today's Progress:** Completed the chapter 5: Model evaluation and improvement where I Learned about  cross validation, grid search, evaluation matrix and scoring from the Intro to ML with python book.
+
+
+# Day 96 to 98 
+**Today's Progress:** Completed the Chapter 6: Algorithm chains and pipelines where I learned about parameter selection with preprocessing, building pipelines, using pipelines in grid searches, general pipeline interface from the book Introduction to ML with python.
+
+
+
+# Day 99 & 100
+**Today's Progress:** Learned about types of data representation as strings, sentiment analysis of movie reviews from chapter 7: Working with text data from intro to ML with python book.
+
+Finally completed the #100daysofMLcode challenge!!🤗🙌
+
+
+
+
