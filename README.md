@@ -295,3 +295,9 @@ Lecture 29: This lectured covered singular value decomposition (SVD).
 
 
 **Thought:** learned only three topics
+
+# Day 37 & 38
+**Today's Progress:** Learned about Expectation of exponential random variable, expectation of normal random variable, mean, median and mode in probability theory.
+
+# Day 39 & 40 
+**Today's Progress:** Learned about Inequalities - Markov inequalities and chebyshev inequalities, weak law of large numbers and polling in limits.
